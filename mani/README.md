@@ -475,7 +475,6 @@ style4.css
     position: relative;
 }
 
-
 ```
 
 ## OUTPUT:
